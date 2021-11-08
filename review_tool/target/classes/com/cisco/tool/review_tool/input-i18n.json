@@ -1,0 +1,6 @@
+{
+"files":[{
+		"getI18nLabel":[{ "i18key":"i18nMessageBundle.","filter":"+","regex":"(\"","file":"js","suggestion":"Please make sure i18nMixin header file is imported, check whether package name and bundle name are present in the file"}],
+		"bundlePath":[{"contains": "ui-plugin/app/nsa/nls/"}]
+}]	
+}

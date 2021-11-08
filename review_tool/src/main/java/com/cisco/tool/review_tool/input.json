@@ -1,0 +1,6 @@
+{
+"files":[{
+		"getI18nLabel":[{ "i18key":"","filterstart":"i18n.t('","filterend":"')","regex":"(\"","file":"js","suggestion":"Please make sure i18nMixin header file is imported, check whether package name and bundle name are present in the file"}],
+		"bundlePath":[{"contains": "ui/uiplugins/faults/i18n/"}]
+}]	
+}
